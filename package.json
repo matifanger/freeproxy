@@ -1,0 +1,27 @@
+{
+  "name": "free-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@growthbunker/vueflags": "^0.1.14",
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/firebase": "^7.5.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@vue-stripe/vue-stripe": "^4.1.5",
+    "core-js": "^3.8.3",
+    "countup.js": "^2.0.7",
+    "firebase": "^8.2.9",
+    "mapbox-gl": "^2.1.1",
+    "nuxt": "^2.14.12",
+    "vue-countup-v2": "^4.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
