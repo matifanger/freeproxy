@@ -1,20 +1,15 @@
-# free-proxy
+<h1 align="center">Free Proxy</h1>
 
-## Build Setup
+<p align="center">
+<img src=".github/main.png"></img>
+<img src=".github/anon-checker.png"></img>
+</p>
 
-```bash
-# install dependencies
-$ npm install
+# TRY IT 🚀
+[Website](https://free-proxy.netlify.app/)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+# Description
+Free list of proxies.
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# TODO
+- [ ] Proxy timeout checker micro-service
