@@ -13,3 +13,4 @@ Free list of proxies.
 
 # TODO
 - [ ] Proxy timeout checker micro-service
+- [ ] Daily scrapper
